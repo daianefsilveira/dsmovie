@@ -1,6 +1,5 @@
 package com.devsuperior.dsmovie.services;
 
-
 import com.devsuperior.dsmovie.dto.MovieDTO;
 import com.devsuperior.dsmovie.dto.ScoreDTO;
 import com.devsuperior.dsmovie.entities.Movie;
